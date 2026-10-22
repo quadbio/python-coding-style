@@ -1,0 +1,8 @@
+{
+  "name": "python-coding-style",
+  "description": "Python conventions for scientific software: minimal code, fail loudly, no magic thresholds, tests plus checks on real data",
+  "version": "1.0.0",
+  "author": {
+    "name": "quadbio"
+  }
+}
